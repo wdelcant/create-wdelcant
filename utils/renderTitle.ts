@@ -1,8 +1,8 @@
 import gradient from "gradient-string";
-import {TITLE_TEXT} from "../consts";
-import {LOGO_INTRO} from "../consts";
 import color from "picocolors";
-// colors brought in from vscode poimandres theme
+import {TITLE_TEXT, LOGO_INTRO} from "../consts";
+
+
 const poimandresTheme = {
   blue: "#add7ff",
   cyan: "#89ddff",
