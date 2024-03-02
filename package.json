@@ -1,0 +1,44 @@
+{
+  "name": "create-wdelcant",
+  "version": "1.0.0",
+  "description": "Crea proyectos para todos",
+  "main": "index.mjs",
+  "bin": {
+    "create-wdelcant": "dist/index.js"
+  },
+  "files": [
+    "dist/**/*"
+  ],
+  "keywords": [
+    "react",
+    "wilson",
+    "next.js",
+    "shadcn",
+    "tailwindcss",
+    "typescript",
+    "mercadopago",
+    "express"
+  ],
+  "author": "Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^10.3.5",
+    "gradient-string": "^2.0.2",
+    "picocolors": "^1.0.0",
+    "prompts": "^2.4.2",
+    "yargs": "^17.7.2"
+  },
+  "scripts": {
+    "build": "tsup",
+    "start": "node dist/index.js",
+    "dev": "tsup --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@types/prompts": "^2.4.9",
+    "@types/yargs": "^17.0.32",
+    "prettier": "^3.0.3",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}

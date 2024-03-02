@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "stylelint.vscode-stylelint",
+    "dsznajder.es7-react-js-snippets",
+    "aaron-bond.better-comments",
+    "steoates.autoimport",
+    "eamodio.gitlens",
+    "kisstkondoros.vscode-gutter-preview",
+    "PKief.material-icon-theme",
+    "christian-kohler.path-intellisense",
+    "sibiraj-s.vscode-scss-formatter",
+    "streetsidesoftware.code-spell-checker-spanish",
+    "SimonSiefke.svg-preview",
+    "bradlc.vscode-tailwindcss",
+    "stivo.tailwind-fold",
+    "antfu.vite",
+  ]
+}
