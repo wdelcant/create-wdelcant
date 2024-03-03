@@ -132,7 +132,7 @@ async function main() {
     ],
     {
       onCancel: () => {
-        console.log("\nCya 👋 😪\n");
+        console.log("\n   Cya 👋 😪\n");
 
         process.exit(0);
       },
