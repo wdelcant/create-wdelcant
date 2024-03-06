@@ -1,6 +1,6 @@
 {
   "name": "create-wdelcant",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "Crea proyectos para todos",
   "main": "index.mjs",
   "bin": {
