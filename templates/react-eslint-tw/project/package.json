@@ -1,5 +1,5 @@
 {
-  "name": "c13-practico",
+  "name": "{{name}}",
   "private": true,
   "version": "0.0.0",
   "type": "module",
